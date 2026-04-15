@@ -29,3 +29,5 @@ Overall, this project demonstrates that I am capable of designing, configuring, 
 ## Outcome
 
 Successfully built and tested a functional network demonstrating strong understanding of networking fundamentals and infrastructure design.
+
+<img width="2544" height="1383" alt="Screenshot 2026-04-14 223502" src="https://github.com/user-attachments/assets/1f11d650-fad5-496b-bdaa-fbd132518efa" />
